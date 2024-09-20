@@ -1,10 +1,9 @@
-# TableauDoubledUpHomelessnessProject
-CISS: Doubled-up Homelessness Visualization.
+# Doubled-Up Homelessness Visualization Project
+Boston University, Center for Innovation in Social Science
 
-The "Doubled-up Homelessness Visualization" project successfully develops a comprehensive dashboard to visualize and analyze data on doubled-up homelessness across the United States. Highlighting significant regional disparities, the project illuminates the prevalence of this often-overlooked form of homelessness, with data showing that states like California experience notably higher rates compared to others like Vermont. 
+Homelessness is a critical social issue, but traditional methods for measuring it often undercount or exclude certain forms, like "doubled-up homelessness." This occurs when individuals temporarily stay with friends or family due to housing loss or economic hardship (U.S. Department of Education, 2001). Understanding the extent of doubled-up homelessness is essential, as it often precedes literal homelessness and can inform prevention strategies.
 
-This visualization serves as a critical tool for researchers, policymakers, and community leaders, providing a data-driven foundation to inform prevention strategies and policy planning. The project not only enhances understanding of the complexities of homelessness but also underscores the importance of detailed, region-specific data in crafting effective interventions and supports.
-
+This project aims to develop a dashboard that visualizes and analyzes data on doubled-up homelessness across the United States. By highlighting regional disparities—such as higher rates in states like California compared to Vermont—the dashboard provides a valuable tool for researchers, policymakers, and community leaders. This resource supports data-driven decisions and strategies to address housing insecurity and prevent homelessness more effectively.
 
 
 
